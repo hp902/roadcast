@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoadCast</string>
+
+    <string name="api_text"><b>Api :</b> %s</string>
+    <string name="desc_text"><b>Description :</b> %s</string>
+    <string name="category_text"><b>Category :</b> %s</string>
+    <string name="lint_text"><b>Link :</b> %s</string>
+    <string name="go_to_location_activity">Go to Location Activity</string>
+
+    <string name="latitude"><b>Latitude:</b> %f</string>
+    <string name="longitude"><b>Longitude:</b> %f</string>
+    <string name="your_location">Your Current Location -</string>
+    <string name="please_wait">Please wait fetching....</string>
+
+</resources>
